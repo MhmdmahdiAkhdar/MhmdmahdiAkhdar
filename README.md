@@ -28,14 +28,14 @@ I'm a 3rd-year Computer and Communications Engineering student at **Antonine Uni
 Internal portal for managing a fintech product catalog, client deployments, and environments.
 `TypeScript`
 
-### 🎬 Movie & TV Show Tracker
+### 🎬 [Movie & TV Show Tracker](https://github.com/MhmdmahdiAkhdar/cinematev2)
 Full-stack web app for tracking movies and TV shows, managing watchlists, and monitoring what you've finished.
 - RESTful APIs built with **Express.js** to handle user data and watchlists
 - Optimized performance by cutting unnecessary API calls
 
 `React` `Node.js` `Express.js`
 
-### 🧾 POS System
+### 🧾 [POS System](https://github.com/MhmdmahdiAkhdar/POS-)
 Point-of-Sale system with product search, cart handling, user login, and sales reports.
 - Relational database for inventory, pricing, and transaction history
 - Automated sales reports to support business decisions
